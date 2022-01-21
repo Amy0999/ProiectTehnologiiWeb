@@ -1,0 +1,42 @@
+ #passwordTeach{
+    display: block;
+    margin-bottom: 15px;
+    /* padding: 20px 100px 20px 100px; */
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.teach_log{
+    border-radius: 20px;
+    background: white;
+    position: fixed;
+    bottom: 300px;
+    right: 600px;
+    border: 1px solid black;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+
+}
+
+#btnAuthTeacher{
+    width: 208px;
+    height: 25px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+p{
+    text-align: center;
+}
+
+.profile{
+    margin-left: 27px;
+    border-radius: 15px;
+    height: 150px;
+    width: 150px;
+}
