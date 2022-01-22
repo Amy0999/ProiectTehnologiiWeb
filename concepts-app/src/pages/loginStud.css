@@ -22,7 +22,7 @@
     box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
 }
 
-#btnAuthStud{
+#btnAuthStud, #btnCheckCredentials{
     width: 208px;
     height: 25px;
     display: block;
